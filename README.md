@@ -7,7 +7,7 @@ Clone the repository to your local machine using the command:
 
 bash
 
-git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/DrAnonim/parser_of_yandex_maps.git
 
 Replace 'yourusername' and 'yourrepository' with your account and repository names, respectively.
 
@@ -15,7 +15,7 @@ Install the required packages using the command:
 
 bash
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 This will install all the necessary packages listed in the requirements.txt file. 
 Make sure you have Python 3.x installed on your computer and have access to the command line.
